@@ -25,14 +25,12 @@ Build a system that analyzes development and deployment metrics to identify team
 
 ## ⚙️ How to Run
 
-### 1️⃣ Clone the repository
-
-```bash
+1️⃣ Clone the repository
 git clone https://github.com/srihitha005/techsophy_assignment.git
 cd techsophy_assignment
 
 
-2️⃣ Install dependencies
+2️⃣ Install dependencies 
 pip install -r requirements.txt
 
 3️⃣ Run the API
